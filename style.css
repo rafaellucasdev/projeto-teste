@@ -1,0 +1,11 @@
+input {
+  margin: 0.5rem;
+}
+
+.minha-classe-mae {
+  background-color: aquamarine;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10rem;
+}
